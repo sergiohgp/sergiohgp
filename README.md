@@ -11,5 +11,5 @@ About me 👨‍💻
 
 How to reach me 📫
 
-<a>Linked In Profile <img src="https://www.linkedin.com/in/sergio-hg-pereira/"></a>
+<a href=""https://www.linkedin.com/in/sergio-hg-pereira/"">Linked In Profile</a>
 Gmail Badge
