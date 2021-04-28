@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Sergio Pereira 👋
 
-<!--
-**sergiohgp/sergiohgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full-stack developer who is passionate about math and JS technologies.
 
-Here are some ideas to get you started:
+About me 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I’m currently learning Cybersecurity, Ethical-Hacking and always improving my JS, React and Node skills.
+🧐 I’m looking for an entry level opportunity as a full-stack developer full time.
+💬 Ask me about anything you'd like to know. I love to talk about cience and geek stuff.
+⚡ Technologies: React, Node, React-Native, MongoDB, PostegreSQL, Docker.
+
+How to reach me 📫
+
+Linkedin Badge Gmail Badge
