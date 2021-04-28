@@ -1,3 +1,5 @@
+<a href="https://www.linkedin.com/in/sergio-hg-pereira/"><img align="right" src="https://github.com/tiago-web/tiago-web/blob/master/images/illustration2.svg" width="330"/></a>
+
 ### Hi, I'm Sergio Pereira 👋
 
 A Full-stack developer who is passionate about math and JS technologies.
@@ -11,6 +13,5 @@ About me 👨‍💻
 
 How to reach me 📫
 
-<a href="https://www.linkedin.com/in/sergio-hg-pereira/">Linked In Profile</a>
-
-<a href="sergiohgp@gmail.com">Gmail</a>
+[![Linkedin Badge](https://img.shields.io/badge/-sergio-hg-pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-hg-pereira/)](https://www.linkedin.com/in/sergio-hg-pereira/)
+[![Gmail Badge](https://img.shields.io/badge/-sergiohgp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiohgp@gmail.com)](mailto:sergiohgp@gmail.com)
